@@ -1,0 +1,150 @@
+{
+  "era": "2099年",
+  "dynasty": "企业江湖时代（武道烙印革命后）",
+  "political_context": "六大门派企业垄断新长安城，企业联盟通过《华山协议》划分势力范围；底层武者和劳工通过丐帮联盟进行抵抗",
+  "setting_type": "赛博朋克×武侠",
+  "primary_location": "新长安城",
+  "city_zones": {
+    "tianshu": "天枢层（海拔2000米+）——六座企业总部塔楼，人口<1%，掌控97%财富",
+    "shijing": "市井层（海拔0-2000米）——商业居住区，企业中低级员工和持证商人，天眼系统全覆盖",
+    "youming": "幽冥层（海拔0以下）——地下黑市、非法武馆、地下格斗场，无天眼系统覆盖",
+    "huaiqu": "废墟区（城外围）——核战与工业污染遗留地，outlaw营地，法外之地"
+  },
+  "sects": [
+    {
+      "name": "少林科技（Shaolin Tech）",
+      "origin": "少林寺",
+      "specialty": "神经烙印研发与授权",
+      "hq": "菩提塔（3200米）",
+      "slogan": "烙印入禅，万法归一",
+      "core_products": ["菩提神经芯片系列", "七十二绝技烙印包", "禅修辅助系统", "武僧安保"],
+      "signature_imprints": ["易筋经·基础烙印包(YJJ-Imprint)", "金刚不坏体·护体烙印(VajraShield)", "拈花指·精准打击烙印(FlowerFinger)", "千手如来掌·多重攻击烙印(ThousandHands)"]
+    },
+    {
+      "name": "武当数据（Wudang Data）",
+      "origin": "武当派",
+      "specialty": "云计算/AI/信息控制",
+      "hq": "太极穹顶",
+      "slogan": "太极归零，万法归宗",
+      "core_products": ["太极云（云计算平台）", "真武AI", "太极搜索引擎", "武当学院"],
+      "signature_imprints": ["太极神功·动态平衡烙印(TaiChiImprint)", "两仪剑法·阴阳烙印(YinYangBlade)", "四象步法·环境感知烙印(FourSymbolStep)", "纯阳无极功·量子加密烙印(PureYangSeal)"]
+    },
+    {
+      "name": "峨眉生物（Emei Bio）",
+      "origin": "峨眉派",
+      "specialty": "生物科技/基因强化",
+      "hq": "灵鹫宫",
+      "slogan": "骨血可铸，筋脉可编",
+      "core_products": ["天蚕丝·义体生物接口", "冰蚕基因强化剂", "玉女心经·内分泌调控烙印", "峨眉制药"],
+      "signature_imprints": ["峨眉九阳功·基因修复烙印(NineYang GenePatch)", "灭绝剑法·生物锁定烙印(ExtinctionBlade)", "冰肌玉骨·细胞优化烙印(IceSkinPack)", "佛光普照·广域生物扫描(BuddhaLightScan)"]
+    },
+    {
+      "name": "昆仑重工（Kunlun Heavy Industries）",
+      "origin": "昆仑派",
+      "specialty": "武器/义体制造",
+      "hq": "铁壁天台（昆仑山脉内）",
+      "slogan": "百炼成钢，万锻归宗",
+      "core_products": ["龙骨系列义体骨架", "霹雳系列武器义肢", "玄铁系列神枢兵刃", "昆仑铁卫"],
+      "signature_imprints": ["昆仑摧心掌·液压冲击烙印(HeartBreaker)", "龙啸九天·推进靴烙印(DragonRoarBoots)", "铁壁合围·全身装甲烙印(IronWallSeal)", "灭世金刚拳·超频打击烙印(WorldEndFist)"]
+    },
+    {
+      "name": "唐门暗网（Tangmen Darknet）",
+      "origin": "唐门",
+      "specialty": "网络武器/黑客/黑市情报",
+      "hq": "万毒楼（分布式虚拟网络）",
+      "slogan": "暗处观天下，无形胜有形",
+      "core_products": ["暴雨梨花·DDoS攻击套件", "唐花·潜伏式烙印病毒", "蚀骨散·神经腐蚀剂", "情报服务", "暗杀服务"],
+      "signature_imprints": ["追魂夺命针·精准注入烙印(SoulChaserNeedle)", "七煞蛊毒·自进化烙印病毒(SevenFiendGu)", "千蛛万毒手·多向量攻击烙印(ThousandSpider)", "唐门幻境·神经欺骗烙印(TangIllusion)"]
+    },
+    {
+      "name": "丐帮联盟（Beggars' Union）",
+      "origin": "丐帮",
+      "specialty": "地下工会/底层抵抗组织",
+      "hq": "忠义厅（幽冥层废弃地铁枢纽）",
+      "slogan": "天下苦烙印久矣。铁骨铸忠义，赤心抗天枢",
+      "core_products": ["劳工权益保护", "地下工会网络", "江湖救济", "情报流通", "赤手武馆（无烙印格斗术）"],
+      "signature_imprints": ["降龙十八掌·反烙印格斗术(DragonSubjugation)", "打狗棒法·反义体格斗术(DogBeatingStick)", "逍遥游·地下通行协议(CarefreeWanderer)", "铁布衫·电磁屏蔽烙印(IronCloth)"]
+    }
+  ],
+  "martial_arts_system": {
+    "three_layer_model": {
+      "knowledge_layer": "神经烙印 (Neural Imprint)——武术招式以神经信号模式写入神经系统。企业提供烙印包。你'知道'怎么打，但不代表你'能'打。",
+      "energy_layer": "真气修炼 (Qi Cultivation)——传统内功修炼，调动体内生物电能。必须亲身修炼，无法商品化。这是'力量'的来源。",
+      "hardware_layer": "义体强化 (Cyberware)——赛博义体改造。强化臂、神经加速器、战术义眼等。增强身体机能的硬件。"
+    },
+    "levels": [
+      {"level": "入门", "name": "初印者（Imprint Novice）", "description": "刚植入神经芯片，激活基础武术烙印，真气初生"},
+      {"level": "小成", "name": "街头武士（Street Samurai）", "description": "掌握完整烙印招式，能在实战中流畅调用，真气小有根基"},
+      {"level": "大成", "name": "企业执行官（Corp Enforcer）", "description": "多种烙印融会贯通，真气深厚，义体配合默契"},
+      {"level": "巅峰", "name": "宗师级（Grandmaster）", "description": "人印合一，能脱离企业烙印自创武技，真气凝练成罡"},
+      {"level": "化境", "name": "铁血觉醒（Iron Blood Awakened）", "description": "传说级别，完全脱离任何烙印，凭自身觉醒的武道意识战斗，真气与意志融为一体"}
+    ],
+    "categories": [
+      {"traditional": "内功", "cyber": "真气修炼 + 神经烙印", "description": "真气为力，烙印为法。真气通过修炼积累，烙印提供运用之法"},
+      {"traditional": "外功", "cyber": "义体强化 (Cyberware)", "description": "赛博义体改造，增强力量、速度、耐力等身体机能"},
+      {"traditional": "轻功", "cyber": "机动义体 (Mobility Implants)", "description": "反重力靴、推进器、跑酷模块等移动增强义体"},
+      {"traditional": "暗器", "cyber": "微型武器系统 (Micro Weapons)", "description": "纳米蜂群、制导飞针、微型导弹等"},
+      {"traditional": "兵器", "cyber": "神枢兵刃 (Neural-Linked Blade)", "description": "通过神经芯片链接的智能冷兵器，烙印可通过兵刃释放"},
+      {"traditional": "点穴", "cyber": "神经阻断 (Neural Disruption)", "description": "精准打击对手神经芯片节点，造成短暂瘫痪或烙印失效"},
+      {"traditional": "毒术", "cyber": "神经毒素 / 烙印病毒", "description": "干扰对手神经系统或破坏烙印稳定性的生化/数字手段"}
+    ],
+    "energy_system": "真气（人体生物电能，通过修炼蓄积和运用）",
+    "meridian_system": "神经通路（传统经脉穴位与神经芯片节点对应）"
+  },
+  "iron_blood_heart_seal": {
+    "nature": "原始武道意识模式——不依赖任何企业烙印，靠自身武道意识发展出独创武技。本质是从'模仿'（烙印）到'创造'（觉醒）的蜕变",
+    "chapters": [
+      {"name": "洗髓篇", "meaning": "破除烙印依赖，感知自身真气", "location": "幽冥层·老段的废弃机房"},
+      {"name": "易筋篇", "meaning": "重塑真气自主运行", "location": "灵鹫宫B7层·冰蚕计划实验室"},
+      {"name": "明心篇", "meaning": "烙印知识融入本能，不再需要刻意调用", "location": "昆仑重工·铁壁数据库"},
+      {"name": "铸魂篇", "meaning": "武道意志化为真形，可脱离烙印自创招式", "location": "武当数据·太极穹顶CEO私人空间"},
+      {"name": "归真篇", "meaning": "返璞归真——武道意识完全觉醒，不再需要任何外部辅助", "location": "无处可寻——从内心觉醒生成"}
+    ],
+    "costs": ["身份暴露（S级威胁标记）", "烙印排异反应期", "真气耗竭危险", "精神意志考验", "不可逆性——觉醒后无法回到企业体系"]
+  },
+  "locations": [
+    "新长安城·天枢层（企业总部区）",
+    "新长安城·市井层（商业居住区）",
+    "新长安城·幽冥层（地下黑市）",
+    "新长安城·废墟区（outlaw营地）",
+    "菩提塔（少林科技总部）",
+    "太极穹顶（武当数据总部）",
+    "灵鹫宫（峨眉生物总部）",
+    "铁壁天台（昆仑重工总部）",
+    "万毒楼（唐门暗网虚拟总部）",
+    "忠义厅（丐帮联盟总部）"
+  ],
+  "important_items": [
+    "铁血心印·洗髓篇",
+    "铁血心印·易筋篇",
+    "铁血心印·明心篇",
+    "铁血心印·铸魂篇",
+    "铁血心印·归真篇",
+    "断码剑（林零的神经链接剑）",
+    "菩提神经芯片",
+    "天蚕丝生物接口",
+    "龙骨义体骨架",
+    "莲花落加密货币"
+  ],
+  "jianghu_rules": [
+    "江湖规矩：恩怨分明，烙印必偿",
+    "江湖规矩：师门如源，不可背叛",
+    "江湖规矩：祸不及硬件（不伤对手的义体维修权）",
+    "江湖规矩：见印有份（获取烙印需共享情报）",
+    "江湖规矩：不杀初印者（不伤害刚获得烙印的新手）",
+    "江湖规矩：天枢不可擅入"
+  ],
+  "jianghu_taboos": [
+    "禁忌一：不可强拆他人神经芯片",
+    "禁忌二：不可对未植入者使用烙印病毒",
+    "禁忌三：不可泄露赤手者（无烙印武者）身份"
+  ],
+  "history_timeline": [
+    {"year": "2047", "event": "空慧禅师与陈一尘博士完成首次武术神经烙印实验"},
+    {"year": "2050", "event": "武道烙印革命——少林发布'万物皆可印'宣言（烙印元年）"},
+    {"year": "2060", "event": "六大门派完成转型，武术烙印商业化"},
+    {"year": "2065", "event": "六方签署《华山协议》，划分烙印授权势力范围"},
+    {"year": "2080", "event": "洛阳之役——昆仑重工与峨眉生物正面冲突"},
+    {"year": "2090-2099", "event": "当前时代——铁血心印传说苏醒"}
+  ]
+}

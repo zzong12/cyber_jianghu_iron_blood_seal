@@ -1,0 +1,22 @@
+{
+  "title": "赛博江湖·铁血心印",
+  "author": "",
+  "genre": "赛博武侠",
+  "language": "zh-CN",
+  "series": "赛博江湖",
+  "book_number": 1,
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28",
+  "version": "1.0",
+  "status": "planning",
+  "summary": "2099年，传统武林门派演变为科技垄断企业，武术招式被制作为神经烙印由企业授权出售。前少林科技程序员林零发现了传说中的'铁血心印'——能让人脱离企业烙印控制、觉醒真正武道意识的原始神经意识模式。在追杀与反击中，他组建outlaw团队，逐步揭开武道烙印化的终极阴谋。",
+  "themes": ["科技与自由的博弈", "烙印知识vs真气修炼", "个体觉醒vs集体控制", "侠义精神在赛博时代的重生"],
+  "target_audience": "adult",
+  "market_positioning": {
+    "primary_genre": "赛博武侠",
+    "secondary_genres": ["赛博朋克", "武侠", "科幻"],
+    "adaptation_targets": ["动漫", "游戏", "短剧"],
+    "target_platforms": ["起点中文网", "番茄小说"],
+    "comparable_works": ["赛博剑仙2121", "赛博英雄传", "穿进赛博游戏后干掉BOSS成功上位"]
+  }
+}

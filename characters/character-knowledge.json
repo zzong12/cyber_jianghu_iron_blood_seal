@@ -1,0 +1,99 @@
+{
+  "novel": "赛博江湖·铁血心印",
+  "characters_created": [
+    {
+      "name": "林零",
+      "codename": "零号剑客",
+      "role": "protagonist",
+      "origin": "前少林科技底层程序员",
+      "weapon": "断码剑（神经链接剑）",
+      "martial_system": "半烙印半心法——知识来自基础烙印，力量来自自悟心法",
+      "allegiance": "chaotic_good"
+    },
+    {
+      "name": "苏暮雪",
+      "codename": "暗雪",
+      "role": "female_lead",
+      "origin": "前峨眉生物首席研究员/铁血心印实验体",
+      "weapon": "冰魄双刺",
+      "martial_system": "冰心诀（自研烙印稳定术）+基因强化体质",
+      "allegiance": "neutral_good"
+    },
+    {
+      "name": "铁牛",
+      "codename": "铁壁",
+      "role": "deuteragonist",
+      "origin": "前昆仑重工义体测试员",
+      "weapon": "铁壁之拳+折叠盾",
+      "martial_system": "铁布衫义体防御+真气护体",
+      "allegiance": "neutral_good"
+    },
+    {
+      "name": "方无极",
+      "codename": "金刚",
+      "role": "primary_antagonist",
+      "origin": "少林科技CEO/前武林高手/初代铁血觉醒者",
+      "weapon": "般若系统+七十二绝技全套烙印",
+      "martial_system": "少林七十二绝技·全烙印矩阵+铁血觉醒（控制型）",
+      "allegiance": "lawful_evil"
+    },
+    {
+      "name": "夜鸦",
+      "codename": "夜鸦",
+      "role": "secondary_antagonist_ally",
+      "origin": "唐门暗网S级杀手/白鸢",
+      "weapon": "十指微型武器系统+黑羽飞刀",
+      "martial_system": "万毒归宗·暗器烙印+真气淬毒",
+      "allegiance": "chaotic_neutral"
+    },
+    {
+      "name": "老段",
+      "codename": "残码",
+      "role": "mentor",
+      "origin": "初代程序员剑客/铁血心印守护者",
+      "weapon": "锈蚀义臂+拐杖芯片碎片",
+      "martial_system": "化境边缘·无烙印纯粹武道",
+      "allegiance": "true_neutral"
+    },
+    {
+      "name": "小七",
+      "codename": "七号",
+      "role": "supporting_ally",
+      "origin": "丐帮联盟情报贩子/孤儿黑客",
+      "weapon": "百眼护目镜+数据棒",
+      "martial_system": "打狗棒法·反烙印格斗+网络渗透术",
+      "allegiance": "chaotic_good"
+    },
+    {
+      "name": "叶知秋",
+      "codename": "秋水",
+      "role": "double_agent",
+      "origin": "武当数据安全总监/丐帮联盟内应",
+      "weapon": "智能手表终端",
+      "martial_system": "太极·化解烙印+真气以柔克刚",
+      "allegiance": "neutral"
+    }
+  ],
+  "protagonist": {
+    "knows": [
+      "少林科技的铁血觉醒人体实验",
+      "铁血心印碎片的存在",
+      "自己父亲的死亡真相"
+    ],
+    "believes": [
+      "烙印只是工具，真正的武道来自内心",
+      "每个人都有选择自己道路的权利",
+      "真气修炼是任何人都能掌握的自由"
+    ],
+    "relationships": {
+      "苏暮雪": "战友→知己→暗生情愫",
+      "铁牛": "互不信任→生死之交",
+      "方无极": "追杀与被追杀→世界观对决",
+      "夜鸦": "猎物与猎手→惺惺相惜",
+      "老段": "师徒",
+      "小七": "兄长般的守护者",
+      "叶知秋": "谨慎信任→并肩作战"
+    }
+  },
+  "last_updated": "2026-05-28"
+}

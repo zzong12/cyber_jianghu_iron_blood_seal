@@ -1,0 +1,18 @@
+{
+  "scenes": {},
+  "scene_types": {
+    "cyber_duel": "赛博武打对决（烙印招式+真气碰撞+兵刃交锋）",
+    "underground_arena": "地下武馆/黑市格斗场",
+    "hack_infiltration": "潜入企业设施/数据窃取",
+    "imprint_awakening": "铁血心印领悟/烙印融合/真气突破",
+    "tavern_datahub": "数据酒馆/黑市情报交易",
+    "chase_escape": "追杀与逃脱（城市追逐战）",
+    "corporate_intrigue": "企业内部权谋/暗斗",
+    "team_dynamics": "团队互动/关系发展",
+    "revelation": "真相揭露/身世之谜",
+    "emotional_beat": "情感场景（呼吸/沉淀）",
+    "boss_fight": "BOSS级对决（企业高管/顶级杀手）",
+    "world_building": "世界观展示（城市风貌/江湖生态）"
+  },
+  "pacing_notes": "武打与潜入交替，紧张追逐后穿插数据酒馆闲谈和团队互动等'呼吸'场景。每5章一个小高潮，每10章一个大反转。"
+}

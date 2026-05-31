@@ -1,0 +1,58 @@
+{
+  "voice": "third_person_limited",
+  "tense": "past",
+  "pov_character": "林零",
+  "tone": "赛博朋克冷硬+武侠古风，双线交织",
+  "language": "zh-CN",
+  "style_notes": [
+    "双风格叙事：赛博场景用冷硬精练的现代笔法，武道场景用半文半白的古风笔法",
+    "三层体系术语：神经烙印（知识层）+真气修炼（能量层）+义体强化（硬件层）",
+    "武打场面融合赛博视觉效果：霓虹映剑光、义体破空声、真气与烙印共振",
+    "对话风格因角色身份而异：企业高管用商务+武侠腔，底层武者用街头黑话，老一辈用文言",
+    "章回体标题格式：第X回 四字·四字",
+    "环境描写突出赛博朋克视觉：霓虹、雨夜、全息投影、数据瀑布",
+    "感官描写丰富：义体的金属触感、烙印激活时的神经电流感、真气运行时的温热流动",
+    "避免纯古风或纯科幻的极端，始终保持'赛博武侠'的混搭感"
+  ],
+  "chapter_target_words": 3000,
+  "scene_break_marker": "***",
+  "chapter_title_format": "第{n}回 {title}",
+  "terminology": {
+    "three_layer_system": {
+      "knowledge_layer": "神经烙印 (Neural Imprint)——将武术招式以神经信号模式写入神经系统，企业提供烙印包。你'知道'怎么打，但不代表你'能'打",
+      "energy_layer": "真气修炼 (Qi Cultivation)——传统武侠内功修炼，调动体内生物电能。企业的力量来源，必须亲身修炼，无法商品化",
+      "hardware_layer": "义体强化 (Cyberware)——赛博义体改造，增强身体机能。强化臂、神经加速器、战术义眼等"
+    },
+    "martial_to_cyber": {
+      "内功": "真气修炼 / 神经烙印 (Qi Cultivation / Neural Imprint)",
+      "外功": "义体强化 (Cyberware Enhancement)",
+      "轻功": "机动义体 (Mobility Implants)",
+      "暗器": "微型武器系统 (Micro Weapon System)",
+      "兵器": "神枢兵刃 (Neural-Linked Blade)",
+      "点穴": "神经阻断 (Neural Disruption)",
+      "毒术": "神经毒素 / 烙印病毒 (Neurotoxin / Imprint Virus)",
+      "真气": "真气 / 生物电能 (Qi / Bio-electric Energy)",
+      "经脉": "神经通路 (Neural Pathway)",
+      "内力": "内力 / 真气 (Inner Force / Qi)",
+      "走火入魔": "烙印排异 (Imprint Rejection)",
+      "闭关修炼": "融印 (Imprint Integration)",
+      "破关而出": "烙印融合 (Imprint Fusion)"
+    },
+    "power_levels": {
+      "入门": "初印者 (Imprint Novice)",
+      "小成": "街头武士 (Street Samurai)",
+      "大成": "企业执行官 (Corp Enforcer)",
+      "巅峰": "宗师级 (Grandmaster)",
+      "化境": "铁血觉醒 (Iron Blood Awakened)"
+    }
+  },
+  "dialogue_styles": {
+    "protagonist": "沉默寡言，关键时刻一语中的，偶尔冷幽默",
+    "corporate_exec": "商务腔+武侠腔混搭，表面客气暗藏杀机",
+    "street_fighter": "街头黑话+江湖切口，直来直去",
+    "mentor": "半文言+烙印术语，言语含蓄常含机锋",
+    "hacker_kid": "网络用语+少年热血，语速快信息量大",
+    "female_lead": "冷静克制，偶尔流露出柔软",
+    "assassin": "惜字如金，每句话都是威胁或挑衅"
+  }
+}
